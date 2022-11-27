@@ -8,6 +8,6 @@ Visualization of various features from a dataset on income and testing of predic
 
 
 ### Data:
-[Data (e.g. # obs)](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+[Data](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 A food sales dataset with 14 features and 48842+ instances.

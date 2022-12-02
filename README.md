@@ -1,4 +1,4 @@
-# Adult income dataset visualizations and predtictive models
+# Adult income dataset visualizations and predictive models
 
 **Author**: J. Tulani Aytch
 

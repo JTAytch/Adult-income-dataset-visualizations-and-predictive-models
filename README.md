@@ -18,10 +18,13 @@ No other data was changed or removed in this dataset as it was already fairly cl
 
 ### Results:
 
-![image](https://user-images.githubusercontent.com/112998617/204619158-8d3d81ed-5893-4f98-8cd4-17c2c16071d8.png)
+![image](https://user-images.githubusercontent.com/112998617/205214146-2d1fa016-785f-4fa3-a19e-1fdc67bf8e8b.png))
 
-According to the data, the highest amount of people with low incomes were Other-service, Adm-clerical, and craft-repair. It would be beneficial to inquire as to what causes these groups to have the lowest incomes.
-Other-service is the highest and also the least specific, inquiring into this more to see what services this includes could be useful.
+As you can see by this plot, the highest amount of people with low incomes was priv-house-serv. Looking into why this is the case could yield useful restuls.
+Other-service is 2nd the highest and also the least specific, inquiring into this more to see what services this includes could be useful.
+
+The highest amount of people with high incomes were, Exec-managerial, and Prof-Specialty,with around 45% of the people with these types of jobs earning incomes above 50k. Looking further into this with the other values such as Age and education could also prove fruitful.
+The armed forces also have a very high deviation which could also be worth looking into.
 
 
 ![image](https://user-images.githubusercontent.com/112998617/204623129-2350d691-77ef-4567-a57d-e3023269f432.png)
@@ -37,4 +40,4 @@ The final model I have chosen for this project will be the original DecisionTree
 It had the best overall results and leaves the most room for tuning and refining.
 There were still a large amount ways the model could be tuned, which would take more time to test, but the results of the model with its default parameters are promising.
 
-![image](https://user-images.githubusercontent.com/112998617/204623845-3350b037-b156-4f05-ab20-e3345b352b70.png)
+![image](https://user-images.githubusercontent.com/112998617/205214945-94058fe1-9fe1-4aab-87ef-e0253064a970.png)
